@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yukir_4pu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\korehanigege-dayo\\EscapeGame2525\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23AC45FC-B565-5E88-5C0D-04BEAEEE9542}|Assembly-CSharp.csproj|c:\\users\\yukir_4pu\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\korehanigege-dayo\\escapegame2525\\assets\\script\\botton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AC45FC-B565-5E88-5C0D-04BEAEEE9542}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\botton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AC45FC-B565-5E88-5C0D-04BEAEEE9542}|Assembly-CSharp.csproj|c:\\users\\yukir_4pu\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\korehanigege-dayo\\escapegame2525\\assets\\script\\returnbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AC45FC-B565-5E88-5C0D-04BEAEEE9542}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\returnbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReturnButton.cs",
+              "DocumentMoniker": "C:\\Users\\yukir_4pu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\korehanigege-dayo\\EscapeGame2525\\Assets\\Script\\ReturnButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ReturnButton.cs",
+              "ToolTip": "C:\\Users\\yukir_4pu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\korehanigege-dayo\\EscapeGame2525\\Assets\\Script\\ReturnButton.cs",
+              "RelativeToolTip": "Assets\\Script\\ReturnButton.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T05:37:23.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Botton.cs",
+              "DocumentMoniker": "C:\\Users\\yukir_4pu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\korehanigege-dayo\\EscapeGame2525\\Assets\\Script\\Botton.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Botton.cs",
+              "ToolTip": "C:\\Users\\yukir_4pu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\korehanigege-dayo\\EscapeGame2525\\Assets\\Script\\Botton.cs",
+              "RelativeToolTip": "Assets\\Script\\Botton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T04:14:10.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
